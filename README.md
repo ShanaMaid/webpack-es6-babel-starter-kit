@@ -1,2 +1,2 @@
-# mopx
-mobx分享
+# webpack-es6-babel-starter-kit
+
